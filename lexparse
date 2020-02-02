@@ -1,0 +1,9 @@
+#!/bin/bash
+
+outputFile=$1 # sa zicem ca executabilul nostru va fi salam
+lexFile=$outputFile.l # consideram ca lexul nostru e salam.l
+yaccFile=$outputFile.y # iar yacc-ul salam.y
+
+yacc -d "$yaccFile" &&
+lex "$lexFile" &&
+gcc lex.yy.c y.tab.c -ll -ly -o "$outputFile" ${@:2}

@@ -1,0 +1,8 @@
+Variabilele noastre sunt: 
+Variabila A, de tipul FLOAT
+Variabila b, de tipul FLOAT
+Variabila c, de tipul FLOAT
+Variabila a, de tipul FLOAT
+Functiile noastre sunt: 
+Functia a, de tipul INT
+Functia c, de tipul INT

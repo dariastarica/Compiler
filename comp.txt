@@ -1,0 +1,17 @@
+int A,b,c.
+float a.
+int a(int b) {a=b.}
+int c(int c) {a=b.}
+
+{  
+    
+    if(a==b)
+    {
+        a=b.
+    }
+    while(a&&b)
+    { 
+        a=3.
+    }
+    eval(3).
+}
