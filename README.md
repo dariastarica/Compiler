@@ -1,1 +1,1 @@
-# Compilator using YACC and LEX
+# Compiler using YACC and LEX
